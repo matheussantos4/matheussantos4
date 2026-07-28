@@ -22,3 +22,5 @@ Focado em desenvolvimento Back-End com Java, APIs REST e bancos de dados SQL.
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="REST API">
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0055&height=120&section=footer" width="100%" alt="footer" />
